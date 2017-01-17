@@ -11,7 +11,7 @@ For students, follow these steps:
 - Follow this tutorial, while commiting your work right after every step.
 - In the commit messages use a prefix of "RED", "GREEN", or "REFACTOR" according to the step, e.g. "RED: a failing test for a missing module"
 - There are colored circle hints following the various steps:
-![RED](https://raw.github.com/jce-il/learn-mocha/master/images/red-circle-icon.png "RED") ![GREEN](https://raw.github.com/jce-il/learn-mocha/master/images/green-circle-icon.png "GREEN") ![REFACTOR](https://raw.github.com/jce-il/learn-mocha/master/images/blue-circle-icon.png "REFACTOR")
+![RED](https://raw.github.com/jce-il/learn-mocha/master/images/red-circle-icon.png "RED") ![GREEN](https://raw.github.com/jce-il/learn-mocha/master/images/green-circle-icon.png "GRE   EN") ![REFACTOR](https://raw.github.com/jce-il/learn-mocha/master/images/blue-circle-icon.png "REFACTOR")
 - Finally, complete your details below, commit and push back to your github tutorial repository
 
 #### My details:
